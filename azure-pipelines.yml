@@ -2,7 +2,7 @@ resources:
   repositories:
     - repository: Zap
       type: git
-      name: Iqra-Ishtiaq16/Zap
+      name: Zap
       ref: refs/heads/master
 
 trigger: none
